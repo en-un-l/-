@@ -1,0 +1,16 @@
+[2026-09-28 16:54:55] [INFO]: I18nUpdate Mod 3.7.0 is loaded in 1.21.1 with Forge
+[2026-09-28 16:54:55] [DEBUG]: Minecraft path: D:\pcl\.minecraft\versions\-
+[2026-09-28 16:54:55] [DEBUG]: Local Storage Pos: C:\Users\enun\AppData\Local
+[2026-09-28 16:54:55] [INFO]: Using fastest url: http://downloader1.meitangdehulu.com:22943/
+[2026-09-28 16:54:55] [DEBUG]: Using asset root: http://downloader1.meitangdehulu.com:22943/
+[2026-09-28 16:54:55] [DEBUG]: C:\Users\enun\AppData\Local\.i18nupdatemod\1.21\Minecraft-Mod-Language-Modpack-1-21.zip md5: 626B30324E3A9D5AEB9E78DC344D25D3, remote md5: 626B30324E3A9D5AEB9E78DC344D25D3
+[2026-09-28 16:54:55] [DEBUG]: Already up to date.
+[2026-09-28 16:54:55] [DEBUG]: C:\Users\enun\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip md5: DB841D3AF759ACE3037C96248414CEDB, remote md5: DB841D3AF759ACE3037C96248414CEDB
+[2026-09-28 16:54:55] [DEBUG]: Already up to date.
+[2026-09-28 16:54:55] [DEBUG]: C:\Users\enun\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip md5: 67C67C61576F07BC50151ADB7D4C7E9A, remote md5: 67C67C61576F07BC50151ADB7D4C7E9A
+[2026-09-28 16:54:55] [DEBUG]: Already up to date.
+[2026-09-28 16:54:55] [INFO]: Converting: C:\Users\enun\AppData\Local\.i18nupdatemod\1.21\Minecraft-Mod-Language-Modpack-1-21.zip
+[2026-09-28 16:54:56] [INFO]: Converting: C:\Users\enun\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip
+[2026-09-28 16:54:56] [INFO]: Converting: C:\Users\enun\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip
+[2026-09-28 16:54:56] [INFO]: Converted: [C:\Users\enun\AppData\Local\.i18nupdatemod\1.21\Minecraft-Mod-Language-Modpack-1-21.zip, C:\Users\enun\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip, C:\Users\enun\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip] -> C:\Users\enun\AppData\Local\.i18nupdatemod\1.21.1\Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip
+[2026-09-28 16:54:56] [INFO]: Synchronized: C:\Users\enun\AppData\Local\.i18nupdatemod\1.21.1\Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip -> D:\pcl\.minecraft\versions\-\resourcepacks\Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip
